@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **ma645431@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadabdullah5&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadabdullah5" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
