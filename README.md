@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abdullah</h1>
 <h3 align="center">An aspiring Computer Scientist from Pakistan</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Database Management System and Operating System**
 
 - 📫 How to reach me **ma645431@gmail.com**
 
