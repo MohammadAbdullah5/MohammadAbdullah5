@@ -103,7 +103,6 @@
 
 <br/>  
 
-## Github Stats  
 ## Profile Statistics:
 Stats|Streak|Languages
 |---|---|---|
