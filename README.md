@@ -103,10 +103,19 @@
 
 <br/>  
 
-
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadabdullah5&show_icons=true&locale=en&layout=compact" alt="mohammadabdullah5" /></p>
+## Profile Statistics:
+Stats|Streak|Languages
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadabdullah5&theme=react)|[![GitHub Streak](https://streak-stats.demolab.com/?user=mohammadabdullah5&theme=react&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadabdullah5&theme=react)|
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadabdullah5&show_icons=true&locale=en" alt="mohammadabdullah5" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadabdullah5&" alt="mohammadabdullah5" /></p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mohammadabdullah5&theme=radical&no-frame=false&no-bg=true&margin-w=2)
+
+</div>
+
